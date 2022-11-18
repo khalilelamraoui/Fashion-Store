@@ -1,9 +1,9 @@
 export default function Header(){
     const gap = {
-        gap : "5px"
+        gap : "5px",
     }
     const normal_text = {
-        fontFamily: "'Courier New', Courier, monospace"
+        fontFamily: "'Courier New', Courier, monospace",
     }
     return(
         <div>
